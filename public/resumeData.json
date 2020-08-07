@@ -1,30 +1,29 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name":"Ricardo Salas",
+    "occupation":"Desarrollador Full Stack",
+    "description":"Apasionado de las tecnologías y de la arquitectura de software. ",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"Después de unos años alejado de la programación y dedicándome a diferentes oficios al margen del sector tecnológico, volví al sitio al que siempre había pertenecido. Técnico en desarrollo de aplicaciones informáticas de gestión. Cursé un Full-Stack coding bootcamp donde adquirí conocimientos y habilidades técnicas en algunas de las tecnologías mas utilizadas en la actualidad en el mundo del desarrollo y donde, tanto de forma individual como trabajando en equipo con otros profesionales, tuve la oportunidad de colaborar en numerosos proyectos de desarrollo. Actualmente trabajo como desarrollador Back-end en East Coders S.L, trabajando en actualizaciones y mejoras de su app principal, Journify.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "ricardevelopment@gmail.com",
+    "phone": "+34 695-750-418",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+     
+      "city":"Valencia",
+      "state":"España"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://www.ricardosalas.es",
+    "resumedownload":"https://drive.google.com/open?id=1otxkESF9JkO3qICJyQiYXEShoFJm189t",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"https://www.facebook.com/profile.php?id=100042785294857",
         "className":"fa fa-facebook"
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://twitter.com/Ricardo05111966",
         "className":"fa fa-twitter"
       },
       {
@@ -34,130 +33,193 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/ricardo-a-salas",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"http://github.com/ricardoasalas/",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Bootcamp GeeksHubs.",
+        "degree":"Master en desarrollo Full Stack",
+        "graduated":"Enero 2020",
+        "description":"Master de cuatro meses de duración en el que aprendí la mayoría de las tecnólogias más demandadas en el mercado."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"I.E.S. Jesús Marín.",
+        "degree":"F.P. Grado Superior en desarrollo de aplicaciones informáticas de gestión",
+        "graduated":"Junio 2005",
+        "description":"Formación de dos años de duración en la que aprendí los fundamentos de programación en C, Visual Basic, así como metodologías de trabajo, gestion de bases de datos y adquirí habilidades tecnicas de montaje y reparación de equipos y montaje de redes de área local."
+      },
+      {
+        "school":"Swansea College.",
+        "degree":"Level 1 Certificate in ESOL Skills for Life",
+        "graduated":"Agosto 2009",
+        "description":"Curso de inglés, equivalente al B2, impartido por el Swansea College del Reino de Gales de un año de 9 meses de duración, examinándome con éxito en las habilidades de reading, speaking, listening y writing."
+      },
+      {
+        "school":"International Wine and Spirit Centre.",
+        "degree":"WSET Level 2 Intermediate Certificate in Wines and Spirits",
+        "graduated":"Agosto 2009",
+        "description":"Curso de vinos y bebidas espirituosas de tres meses de duración, donde adquirí profundos conocimientos sobre las diferentes tipos de uvas, así como la elavoración y cata de vinos de los principales paises productores del mundo. Me examiné con mérito."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"East Coders S.L.",
+        "title":"Back-End Developer",
+        "years":"Marzo 2020 - Actualidad",
+        "description":"Actualmente trabajo como Backend developer en las mejoras y actualizaciones Journify, una app de car pooling para Android y IOs."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Chaplin Café",
+        "title":"Dueño ",
+        "years":"Aril 2013 - Octubre 2018",
+        "description":"Decidí emprender en Hostelería, un sector que conocía desde muy pequeño porque siempre me han gustado los retos. Pero llegó un punto en el que volvía a necesitar mas retos."
+      },
+      {
+        "company":"Pixel Informática S.L.",
+        "title":"Técnico de Sistemas",
+        "years":"Octubre 2005 - Junio 2006",
+        "description":"Nada más finalizar el Ciclo de programación, y a pesar de que no era mi especialidad, una tienda local me contrató de técnico de hardware y redes. Aprendí a ensamblar y a mantener equipos informáticos."
       }
     ],
     "skills":[
       {
         "name":"Git",
-        "level":"60%"
+        "level":"80%",
+        "iconUrl:": "images/techIcons/git.png"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"JavaScript",
+        "level":"80%",
+        "iconUrl:":"images/techIcons/javascript.png"
       },
       {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"60%",
+        "iconUrl:":"images/techIcons/react.png"
       },
       {
         "name":"CSS",
-        "level":"90%"
+        "level":"40%",
+        "iconUrl:":"images/techIcons/css.png"
       },
       {
         "name":"HTML5",
-        "level":"80%"
+        "level":"60%",
+        "iconUrl:":"images/techIcons/html5.png"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"Angular",
+        "level":"40%",
+        "iconUrl:": "images/techIcons/angular.png"
       },
       {
         "name":"MongoDB",
-        "level":"80%"
+        "level":"80%",
+        "iconUrl:":"images/techIcons/mongo.png"
+      },
+      {
+        "name":"MySql",
+        "level":"40%",
+        "iconUrl:":"images/techIcons/mysql.png"
+      },{
+        "name":"PHP",
+        "level":"40%",
+        "iconUrl:":"images/techIcons/php.png"
+      },
+      {
+        "name":"Laravel",
+        "level":"30%",
+        "iconUrl:":"images/techIcons/laravel.png"
+      },
+      {
+        "name":"NodeJS",
+        "level":"70%",
+        "iconUrl:":"images/techIcons/node.png"
       }
+
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Math Dice",
+        "category":"Juego de dados",
+        "image":"mathdice.jpg",
+        "url":"https://github.com/RicardoASalas/MathDice.git"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Mortal Kombat",
+        "category":"Juego de lucha con estadísticas",
+        "image":"mortalkombat.jpg",
+        "url":"https://github.com/RicardoASalas/JuegoPeleasPorTurnosMortalCombat.git"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Richify",
+        "category":"Reproductor de música online",
+        "image":"richify.jpg",
+        "url":"https://github.com/RicardoASalas/SoundCloudFrontEnd.git"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"RetroNetflix",
+        "category":"Web de alquiler de películas online. Front.",
+        "image":"retronetflix.jpg",
+        "url":"#"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"RetroNetflix",
+        "category":"Web de alquiler de películas online. Back.",
+        "image":"imagenBack.jpg",
+        "url":"https://github.com/RicardoASalas/VideoClubOnlineBackEnd.git"
+      },
+
+      {
+        "title":"The RockStore",
+        "category":"Ecommerce de instrumentos musicales. Front.",
+        "image":"therockstore.jpg",
+        "url":"https://github.com/RicardoASalas/tiendaOnline-Frontend.git"
+      },
+      {
+        "title":"The RockStore",
+        "category":"Ecommerce de instrumentos musicales. Back.",
+        "image":"imagenBack.jpg",
+        "url":"https://github.com/RicardoASalas/tiendaOnline-backend.git"
+      },
+      {
+        "title":"Labor",
+        "category":"Red social de contactos profesionales. Back.",
+        "image":"imagenBack.jpg",
+        "url":"https://github.com/RicardoASalas/labor-b.git"
       }
     ]
   },
-  "testimonials":{
-    "testimonials":[
+  "hobbies":{
+    "hobbies":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "hobbyName":"Dibujo",
+        "text":"Dibujar es algo que siempre me ha gustado, desde muy pequeño cada vez que caía un lapiz en mi mano era buen momento para dibujar todo lo que veía a mi alrededor. Aunque nuca he llegado a potenciar mucho esta habilidad, tampoco he dejado nunca de practicarla.",
+        "picture1":"dibujo1.jpg",
+        "picture2":"dibujo2.jpg",
+        "picture3":"dibujo3.jpg",
+        "picture4":"dibujo4.jpg",
+        "picture5":"dibujo5.jpg"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "hobbyName":"Viajar",
+        "text":"Siempre que me lo ha permitido la agenda y el bolsillo no he perdido la oportunidad de conocer rincones, ya sea a veinte metros o a 10.000 km de mi casa. Aunque no hago ascos a una excursion urbana visitando museos y monumentos, lo que realmente me mueve es visitar zonas naturales y de montaña, donde no puede faltar una buena ruta de senderismo para olvidarme del estres de la civilización.",
+        "picture1":"dibujo6.jpg",
+        "picture2":"dibujo7.jpg",
+        "picture3":"dibujo8.jpg",
+        "picture4":"dibujo9.jpg",
+        "picture5":"dibujo10.jpg"
       }
     ]
   }
