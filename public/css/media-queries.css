@@ -62,16 +62,28 @@
    #resume h1 { font: 16px/24px 'opensans-bold', sans-serif; }
    #resume .main-col { padding-right: 5%; }   
 
-   /* Testimonials Section
+   /* Hobbies Section
    ------------------------------------------------------------------- */
-   #testimonials .header-col h1:before {
-      font-size: 66px;
-      line-height: 66px;
-   }
-   #testimonials blockquote p {
-      font-size: 22px;
-      line-height: 46px;      
-   }
+   #hobbies .carousel{
+      display:block;
+      width: 20rem;
+      height: 25rem;
+  }
+
+  #hobbies .hobbies{
+      margin:2rem;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      background: transparent;
+  }
+  
+  #hobbies .hobbyPicture{
+      margin:2rem;
+      width: 22rem;
+      height: 20rem;
+  }
 
     /* Call to Action Section
    ------------------------------------------------------------------- */
@@ -258,23 +270,28 @@
    .popup-modal {	max-width: 85%; }
 
 
-   /* Testimonials Section
+   /* Hobbies Section
    ----------------------------------------------------------------------- */
-   #testimonials .text-container { text-align: center; }
-   #testimonials h1 {
-      font: 16px/24px 'opensans-bold', sans-serif;
-      text-align: center;
-      margin-bottom: 30px;
-      text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);
-   }
-   #testimonials h1 span { display: block; }
-   #testimonials .header-col h1:before { content: none; }
-   #testimonials blockquote { padding-bottom: 24px; }
-   #testimonials blockquote p {
-      font-size: 20px;
-      line-height: 42px;      
-   }
+   .carousel{
+      display:block;
+      width: 20rem;
+      height: 25rem;
+  }
 
+  .hobbies{
+      margin:2rem;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      background: transparent;
+  }
+  
+  .hobbyPicture{
+      margin:2rem;
+      width: 22rem;
+      height: 20rem;
+  }
    /* Control Nav */
    .flex-control-nav {
       text-align: center;
@@ -342,6 +359,30 @@
   -------------------------------------------------------------------------- */
 
 @media only screen and (max-width: 480px) {
+
+   /* Hobbies Section
+   -------------------------------------------------------------------- */
+   .carousel{
+      display:block;
+      width: 20rem;
+      height: 25rem;
+  }
+  
+  .hobbies{
+      margin:2rem;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      background: transparent;
+  }
+  
+  .hobbyPicture{
+      margin:2rem;
+      width: 22rem;
+      height: 20rem;
+  }
+
 
    /* mobile navigation
    -------------------------------------------------------------------- */
