@@ -2,9 +2,9 @@
   "main": {
     "name":"Ricardo Salas",
     "occupation":"Desarrollador Full Stack",
-    "description":"Apasionado de las tecnologías y de la arquitectura de software. ",
+    "description":"Apasionado de las tecnologías y de la arquitectura de software ",
     "image":"profilepic.jpg",
-    "bio":"Después de unos años alejado de la programación y dedicándome a diferentes oficios al margen del sector tecnológico, volví al sitio al que siempre había pertenecido. Técnico en desarrollo de aplicaciones informáticas de gestión. Cursé un Full-Stack coding bootcamp donde adquirí conocimientos y habilidades técnicas en algunas de las tecnologías mas utilizadas en la actualidad en el mundo del desarrollo y donde, tanto de forma individual como trabajando en equipo con otros profesionales, tuve la oportunidad de colaborar en numerosos proyectos de desarrollo. Actualmente trabajo como desarrollador Back-end en East Coders S.L, trabajando en actualizaciones y mejoras de su app principal, Journify.",
+    "bio":"Técnico en desarrollo de aplicaciones informáticas de gestión. Cursé un Full-Stack coding bootcamp donde adquirí conocimientos y habilidades técnicas en algunas de las tecnologías mas utilizadas en la actualidad en el mundo del desarrollo y donde, tanto de forma individual como trabajando en equipo con otros profesionales, tuve la oportunidad de colaborar en numerosos proyectos de desarrollo. Actualmente trabajo como desarrollador Back-end en East Coders S.L, trabajando en actualizaciones y mejoras de su app principal, Journify.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "ricardevelopment@gmail.com",
     "phone": "+34 695-750-418",
